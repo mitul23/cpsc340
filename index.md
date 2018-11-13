@@ -48,10 +48,10 @@ The lecture videos are available [here](https://www.youtube.com/playlist?list=PL
 | 32 | Apr 4  | [More CNNs, deep learning software](lectures/L32.pdf?raw=1)  | [in-class demo](https://github.com/UBC-CS/cpsc340/blob/master/lectures/L32demo.ipynb), [Artistic Style Transfer video](https://www.youtube.com/watch?v=Uxax5EKg0zA), [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer), [The Building Blocks of Interpretability (for CNNs)](https://distill.pub/2018/building-blocks/) | 
 | 33 | Apr 6  | [Conclusion](lectures/L33.pdf?raw=1)  | |
 
-Note: the acroynms in the table above refer to the following textbooks:
+The acroynms in the table above refer to the following textbooks:
 
-- AI:AMA: Artificial Intelligence: A Modern Approach by Russell and Norvig
-- ESL: The Elements of Statistical Learning by Hastie et al.
-- ML:APP: Machine Learning: A Probabilistic Perspective by Kevin Murphy
-- PRML: Pattern Recognition and Machine Learning by Christopher Bishop
-- IDM: Introduction to Data Mining by Steinbach et al.
+- AI:AMA: _Artificial Intelligence: A Modern Approach_ by Russell and Norvig
+- ESL: _The Elements of Statistical Learning_ by Hastie et al.
+- ML:APP: _Machine Learning: A Probabilistic Perspective_ by Kevin Murphy
+- PRML: _Pattern Recognition and Machine Learning_ by Christopher Bishop
+- IDM: _Introduction to Data Mining_ by Steinbach et al.
